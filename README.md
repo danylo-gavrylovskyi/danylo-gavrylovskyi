@@ -16,5 +16,8 @@ My interests extend to exploring modern technologies, optimizing development wor
 ![](https://github-readme-stats.vercel.app/api?username=danylo-gavrylovskyi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danylo-gavrylovskyi&theme=transparent)](https://github.com/danylo-gavrylovskyi/github-readme-stats)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danylo-gavrylovskyi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
